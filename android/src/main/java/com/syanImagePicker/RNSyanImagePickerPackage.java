@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.syanImagePicker;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
